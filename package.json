@@ -1,0 +1,16 @@
+{
+  "name": "15-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --port=5500 ./src/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "nodemon": "^2.0.6"
+  }
+}
